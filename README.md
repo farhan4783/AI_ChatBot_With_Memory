@@ -20,7 +20,6 @@ A simple yet powerful AI-powered chatbot with memory capabilities, built using P
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
    cd AI_ChatBot
    ```
 
